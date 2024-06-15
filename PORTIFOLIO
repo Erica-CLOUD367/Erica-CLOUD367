@@ -1,0 +1,586 @@
+HTML
+<!-- Google fonts -->
+
+<!-- navigation panel -->
+<nav class="navbar navbar-default navbar-fixed-top" role="navegation">
+  <div class="container-fluid">
+     <li class='item' style="background-image: url('https://images7.alphacoders.com/878/878663.jpg')">
+    
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-main">
+          <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+         <li class='item' style="background-image: url('https://images7.alphacoders.com/878/878663.jpg')">
+      </button>
+      <a class="navbar-brand" 
+          <li class='item' style="background-image: url('https://images7.alphacoders.com/878/878663.jpg')"><h1>Erica Aparecida Ferreira</h1> </a>
+    </div>
+     <li class='item' style="background-image: url('https://images7.alphacoders.com/878/878663.jpg')">
+    <div class="collapse navbar-collapse" id="navbar-collapse-main">
+      <ul class="nav navbar-nav navbar-right">
+   <a href="http://waaark.com" class="btn-liquid">
+
+<div class="button">
+  <p>
+</div>
+      <h3>  <a href="#portifolio">Portfolio</a></li>
+    
+     <li><a href="#contact">Contact</a></li></p></h3>
+         
+      </ul>
+    </div><!-- /.navbar-collapse-->
+  </div><!-- /.container-fluid-->
+</nav>
+
+<!-- first section - Home -->
+<div id="home" class="home">
+  <div class="text-vcenter">
+    <h1>BEM VINDO</h1>
+    <h3>here you'll learn about my skills and projects </h3><br>
+    <a href="#about" class="btn btn-default btn-lg">Continue</a>
+  </div>
+</div>
+<!-- /first section -->
+
+<!-- seconde section - About -->
+<div id="about" class="pad-section">
+  <div class= "container">
+    <div class="row">
+      <div class="col-sm-6">
+       <!-- <img src = "ERICA/jpg" alt=""/>-->
+        
+      </div>
+      <div class="col-sm-6 text-center">
+       <h1>TRANSFORMANDO SONHO EM REALIDADE</1>
+        <p class="lead">I am a creative and detailed oriented Web Developer student who is passionate about HTML, CSS, JavaScript, Trending designs and technologies.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /second section -->
+
+<!---third section - Portfolio -->
+<div id="portifolio" class = "pad-section">
+  <div class="container">
+    <h2 class="text-center">Portfolio</h2><hr />
+    <!--
+    <div class="row text-center">
+      <div class="col-xs-6 col-md-4"><i class="glyphicon glyphicon-cloud"> </i>
+        <h4>Service 1</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in sem cras amet. Donec in sem cras amet.</p>
+      </div>
+      <div class="col-xs-6 col-md-4">
+        <i class="glyphicon glyphicon-leaf"></i>
+        <h4>Service 2</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in sem cras amet. Donec in sem cras amet.</p>
+      </div>
+      <div class="col-xs-6 col-md-4">
+        <i class="glyphicon glyphicon-phone-alt"></i>
+        <h4>Service 3</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in sem cras amet. Donec in sem cras amet.</p>
+      </div>
+    </div>
+-->
+    <div class="row text-center">
+      <div class="hover08 col-xs-6 col-md-4">
+      <a href="https://github.com/Erica-CLOUD367/Erica-CLOUD367" target="_blank">
+        <figure><img class="img-responsive" src="https://github.com/Erica-CLOUD367/Erica-CLOUD367" alt=""></figure></a>
+        <h4>ERICA website</h4>
+        <p>Website created to promote the projects of the artist graphic student designer Erica  Ferreira . </p>
+      </div>
+      <div class="hover08 col-xs-6 col-md-4">
+      <a href="https://i.postimg.cc/PJY880CP/vv.jpg"target="_blank"><figure>
+        <img class="img-ERICA/jpg" src="https://i.postimg.cc/PJY880CP/vv.jpg" alt=""></figure></a>
+        
+      </div>
+      <div class="hover08 col-xs-6 col-md-4">
+
+        <figure><img class="img-responsive" src="https://i.postimg.cc/jSXPcVZf/download.jpg" alt=""><figure></a>
+        <h4>HABILIDADES</h4>
+        <p>Estudante no Terceiro Periodo em Engenharia de Software</p>
+        <p>FORMADA EM COMÉRCIO EXTERIOR</p>
+      </div>
+  </div>
+  </div>
+</div>
+<!-- / Third sction-->
+
+<!--fourth section - Contact-->
+<div id="contact" class="pad-section">
+  <div class="container">
+    <div class="row">
+          <div class="col-sm-6">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h2 class="panel-title">Additional information</h2>
+        </div>
+        <div class="panel-body lead">
+          If you need any further information about my projects and my expertises, please feel free to use the following links on the right box to contact me.<br>
+          Cheers
+        </div>
+      </div>
+    </div>
+      <div class="col-sm-6">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h2 class="panel-title">Contact</h2>
+        </div>
+        <div class="panel-body lead">
+          <p>
+            Connect with erica40@outlook.com.br</p>
+          
+        <h1>  <a href="https://github.com/Erica-CLOUD367/Erica-CLOUD367" target="_blank" class="btn btn-warning btn-1g">GitHub</a>
+          <a href="https://www.google.com/search?q=linkedin+erica+aparecida+ferreira&oq=li&gs_lcrp=EgZjaHJvbWUqCAgBEEUYJxg7Mg8IABBFGDsYkQIYgAQYigUyCAgBEEUYJxg7MgYIAhBFGDsyBggDEEUYOzIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMzQxMGowajSoAgCwAgA&sourceid=chrome&ie=UTF-8"target="blank" class="btn btn-warning btn-1g">Linkedin</a></h1>
+          </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+</div>
+<!-- / fourth section -->
+
+<!-- footer -->
+<footer>
+  <hr />
+  <div class="container">
+    <p class="text-right">Copyright - Erica Ferreira &copy; 2024</p>
+  </div>
+</footer>
+<!-- /footer -->
+    
+
+CSS
+
+
+html,body{
+  background:url("https://i.postimg.cc/Vv6kznmD/ERICA.jpg")repeat center center fixed;
+    background-color:#888888;
+  color: D3D3D3;
+  height: 100%;
+  width:100%;
+}
+
+ .img-border {
+   background:url("https://i.postimg.cc/Vv6kznmD/ERICA.jpg")repeat center center fixed;
+   
+   border: 10px solid;
+   border-radius: 100%;
+  }
+
+
+/*padded section */
+.pad-section{ 
+background:url("https://i.postimg.cc/Vv6kznmD/ERICA.jpg")repeat center center fixed;
+  COLOR:D3D3D3;
+  padding:50px 0;
+}
+
+.pad-section img{ background:url("https://i.postimg.cc/Vv6kznmD/ERICA.jpg")repeat center center fixed;
+  width:100%;
+  COLOR:D3D3D3;
+}
+
+/* vertical-centered text */
+.text-vcenter {
+background:url("https://i.postimg.cc/Vv6kznmD/ERICA.jpg")repeat center center fixed;
+  display: table-cell;
+  text-align:center;
+  color:#A77AA7;
+  vertical-align:middle;
+  
+}
+.text-vcenter h1{
+  
+background:url("https://i.postimg.cc/Vv6kznmD/ERICA.jpg")repeat center center fixed;
+  font-family:Quicksand, serif;
+  font-size: 5.5em;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  color:#A77AA7;
+  font-size: 100px;
+   
+}
+
+#home{
+background:url("https://i.postimg.cc/Vv6kznmD/ERICA.jpg") repeat center center fixed;
+  display: table;
+  height: 100%;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+   color:#A77AA7;
+  font-size: 20px;
+}
+
+#about {
+  font-size: 10px;
+ COLOR: #A77AA7;
+  FONT-FAMILY:CURSIVE;
+}
+
+
+#portifolio{
+  background-color:#A77AA7;
+  color:#A77AA7;
+  font-size: 20px;
+}
+
+#portifolio h2{
+  font-family:Quicksand, serif;
+  font-weight: 500;
+  color:#A77AA7;
+  font-size: 100px;
+}
+#portifolio .glyphicon{
+  a:hover;
+  border: 2px solid #A77AA7;
+  border-radius: 5%;
+  display: inline-block;
+  font-size: 60px;
+  height: 220px;
+  line-height: 220px;
+  text-align: center;
+  vertical-align: middle;
+  width: 220px;
+}
+
+#contact{
+  background: url(https://www.dropbox.com/s/ha9aw9o1vlk4j80/montreal.jpg?raw=1) no-repeat center center fixed;
+   a:hover;
+  IMAGE HOVER:10PX;
+  display:table;
+  height: 400px;
+  position: relative;
+  width:100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#contact .panel{
+  font-size: 30px;
+  color:#A77AA7;
+  opacity: 0.9;
+  
+}
+
+footer {
+  padding: 10px 0;
+}
+footer .glyphicon{
+  
+  color: #A77AA7;
+  font-size: 100px;
+}
+
+footer .glyphicon :hover{
+  font-size: 100px;
+  color:#A77AA7;
+}
+
+figure:hover+span {
+	bottom: -36px;
+	opacity: 1;
+}
+
+/* Gray Scale */
+.hover08 figure img {
+	-webkit-filter: grayscale(55%);
+	filter: grayscale(55%);
+  -webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover08 figure:hover img {
+	-webkit-filter: grayscale(0);
+	filter: grayscale(0);
+}
+
+JS
+$(function() {
+	// Vars
+	var pointsA = [],
+		pointsB = [],
+		$canvas = null,
+		canvas = null,
+		context = null,
+		vars = null,
+		points = 8,
+		viscosity = 20,
+		mouseDist = 70,
+		damping = 0.05,
+		showIndicators = false;
+		mouseX = 0,
+		mouseY = 0,
+		relMouseX = 0,
+		relMouseY = 0,
+		mouseLastX = 0,
+		mouseLastY = 0,
+		mouseDirectionX = 0,
+		mouseDirectionY = 0,
+		mouseSpeedX = 0,
+		mouseSpeedY = 0;
+
+	/**
+	 * Get mouse direction
+	 */
+	function mouseDirection(e) {
+		if (mouseX < e.pageX)
+			mouseDirectionX = 1;
+		else if (mouseX > e.pageX)
+			mouseDirectionX = -1;
+		else
+			mouseDirectionX = 0;
+
+		if (mouseY < e.pageY)
+			mouseDirectionY = 1;
+		else if (mouseY > e.pageY)
+			mouseDirectionY = -1;
+		else
+			mouseDirectionY = 0;
+
+		mouseX = e.pageX;
+		mouseY = e.pageY;
+
+		relMouseX = (mouseX - $canvas.offset().left);
+		relMouseY = (mouseY - $canvas.offset().top);
+	}
+	$(document).on('mousemove', mouseDirection);
+
+	/**
+	 * Get mouse speed
+	 */
+	function mouseSpeed() {
+		mouseSpeedX = mouseX - mouseLastX;
+		mouseSpeedY = mouseY - mouseLastY;
+
+		mouseLastX = mouseX;
+		mouseLastY = mouseY;
+
+		setTimeout(mouseSpeed, 50);
+	}
+	mouseSpeed();
+
+	/**
+	 * Init button
+	 */
+	function initButton() {
+		// Get button
+		var button = $('.btn-liquid');
+		var buttonWidth = button.width();
+		var buttonHeight = button.height();
+
+		// Create canvas
+		$canvas = $('<canvas></canvas>');
+		button.append($canvas);
+
+		canvas = $canvas.get(0);
+		canvas.width = buttonWidth+100;
+		canvas.height = buttonHeight+100;
+		context = canvas.getContext('2d');
+
+		// Add points
+
+		var x = buttonHeight/2;
+		for(var j = 1; j < points; j++) {
+			addPoints((x+((buttonWidth-buttonHeight)/points)*j), 0);
+		}
+		addPoints(buttonWidth-buttonHeight/5, 0);
+		addPoints(buttonWidth+buttonHeight/10, buttonHeight/2);
+		addPoints(buttonWidth-buttonHeight/5, buttonHeight);
+		for(var j = points-1; j > 0; j--) {
+			addPoints((x+((buttonWidth-buttonHeight)/points)*j), buttonHeight);
+		}
+		addPoints(buttonHeight/5, buttonHeight);
+
+		addPoints(-buttonHeight/10, buttonHeight/2);
+		addPoints(buttonHeight/5, 0);
+		// addPoints(x, 0);
+		// addPoints(0, buttonHeight/2);
+
+		// addPoints(0, buttonHeight/2);
+		// addPoints(buttonHeight/4, 0);
+
+		// Start render
+		renderCanvas();
+	}
+
+	/**
+	 * Add points
+	 */
+	function addPoints(x, y) {
+		pointsA.push(new Point(x, y, 1));
+		pointsB.push(new Point(x, y, 2));
+	}
+
+	/**
+	 * Point
+	 */
+	function Point(x, y, level) {
+	  this.x = this.ix = 50+x;
+	  this.y = this.iy = 50+y;
+	  this.vx = 0;
+	  this.vy = 0;
+	  this.cx1 = 0;
+	  this.cy1 = 0;
+	  this.cx2 = 0;
+	  this.cy2 = 0;
+	  this.level = level;
+	}
+
+	Point.prototype.move = function() {
+		this.vx += (this.ix - this.x) / (viscosity*this.level);
+		this.vy += (this.iy - this.y) / (viscosity*this.level);
+
+		var dx = this.ix - relMouseX,
+			dy = this.iy - relMouseY;
+		var relDist = (1-Math.sqrt((dx * dx) + (dy * dy))/mouseDist);
+
+		// Move x
+		if ((mouseDirectionX > 0 && relMouseX > this.x) || (mouseDirectionX < 0 && relMouseX < this.x)) {
+			if (relDist > 0 && relDist < 1) {
+				this.vx = (mouseSpeedX / 4) * relDist;
+			}
+		}
+		this.vx *= (1 - damping);
+		this.x += this.vx;
+
+		// Move y
+		if ((mouseDirectionY > 0 && relMouseY > this.y) || (mouseDirectionY < 0 && relMouseY < this.y)) {
+			if (relDist > 0 && relDist < 1) {
+				this.vy = (mouseSpeedY / 4) * relDist;
+			}
+		}
+		this.vy *= (1 - damping);
+		this.y += this.vy;
+	};
+
+
+	/**
+	 * Render canvas
+	 */
+	function renderCanvas() {
+		// rAF
+		rafID = requestAnimationFrame(renderCanvas);
+
+		// Clear scene
+		context.clearRect(0, 0, $canvas.width(), $canvas.height());
+		context.fillStyle = '#fff';
+		context.fillRect(0, 0, $canvas.width(), $canvas.height());
+
+		// Move points
+		for (var i = 0; i <= pointsA.length - 1; i++) {
+			pointsA[i].move();
+			pointsB[i].move();
+		}
+
+		// Create dynamic gradient
+		var gradientX = Math.min(Math.max(mouseX - $canvas.offset().left, 0), $canvas.width());
+		var gradientY = Math.min(Math.max(mouseY - $canvas.offset().top, 0), $canvas.height());
+		var distance = Math.sqrt(Math.pow(gradientX - $canvas.width()/2, 2) + Math.pow(gradientY - $canvas.height()/2, 2)) / Math.sqrt(Math.pow($canvas.width()/2, 2) + Math.pow($canvas.height()/2, 2));
+
+		var gradient = context.createRadialGradient(gradientX, gradientY, 300+(300*distance), gradientX, gradientY, 0);
+		gradient.addColorStop(0, '#102ce5');
+		gradient.addColorStop(1, '#E406D6');
+
+		// Draw shapes
+		var groups = [pointsA, pointsB]
+
+		for (var j = 0; j <= 1; j++) {
+			var points = groups[j];
+
+			if (j == 0) {
+				// Background style
+				context.fillStyle = '#1CE2D8';
+			} else {
+				// Foreground style
+				context.fillStyle = gradient;
+			}
+
+			context.beginPath();
+			context.moveTo(points[0].x, points[0].y);
+
+			for (var i = 0; i < points.length; i++) {
+				var p = points[i];
+				var nextP = points[i + 1];
+				var val = 30*0.552284749831;
+
+				if (nextP != undefined) {
+					// if (nextP.ix > p.ix && nextP.iy < p.iy) {
+					// 	p.cx1 = p.x;
+					// 	p.cy1 = p.y-val;
+					// 	p.cx2 = nextP.x-val;
+					// 	p.cy2 = nextP.y;
+					// } else if (nextP.ix > p.ix && nextP.iy > p.iy) {
+					// 	p.cx1 = p.x+val;
+					// 	p.cy1 = p.y;
+					// 	p.cx2 = nextP.x;
+					// 	p.cy2 = nextP.y-val;
+					// }  else if (nextP.ix < p.ix && nextP.iy > p.iy) {
+					// 	p.cx1 = p.x;
+					// 	p.cy1 = p.y+val;
+					// 	p.cx2 = nextP.x+val;
+					// 	p.cy2 = nextP.y;
+					// } else if (nextP.ix < p.ix && nextP.iy < p.iy) {
+					// 	p.cx1 = p.x-val;
+					// 	p.cy1 = p.y;
+					// 	p.cx2 = nextP.x;
+					// 	p.cy2 = nextP.y+val;
+					// } else {
+
+						p.cx1 = (p.x+nextP.x)/2;
+						p.cy1 = (p.y+nextP.y)/2;
+						p.cx2 = (p.x+nextP.x)/2;
+						p.cy2 = (p.y+nextP.y)/2;
+
+						context.bezierCurveTo(p.x, p.y, p.cx1, p.cy1, p.cx1, p.cy1);
+					// 	continue;
+					// }
+
+					// context.bezierCurveTo(p.cx1, p.cy1, p.cx2, p.cy2, nextP.x, nextP.y);
+				} else {
+nextP = points[0];
+						p.cx1 = (p.x+nextP.x)/2;
+						p.cy1 = (p.y+nextP.y)/2;
+
+						context.bezierCurveTo(p.x, p.y, p.cx1, p.cy1, p.cx1, p.cy1);
+				}
+			}
+
+			// context.closePath();
+			context.fill();
+		}
+
+		if (showIndicators) {
+			// Draw points
+			context.fillStyle = '#000';
+			context.beginPath();
+			for (var i = 0; i < pointsA.length; i++) {
+				var p = pointsA[i];
+
+				context.rect(p.x - 1, p.y - 1, 2, 2);
+			}
+			context.fill();
+
+			// Draw controls
+			context.fillStyle = '#f00';
+			context.beginPath();
+			for (var i = 0; i < pointsA.length; i++) {
+				var p = pointsA[i];
+
+				context.rect(p.cx1 - 1, p.cy1 - 1, 2, 2);
+				context.rect(p.cx2 - 1, p.cy2 - 1, 2, 2);
+			}
+			context.fill();
+		}
+	}
+
+	// Init
+	initButton();
+});
